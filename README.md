@@ -11,4 +11,9 @@ I'm a student that loves C++ as well as Golang and currently I'm so much into co
 
 I can speak **English** and **Japanese**.
 
-I've worked on a cheat running on CSGO called <a href="https://github.com/s3pt3mb3r/Dainsleif" rel="noopener">:zap:Dainsleif</a> for a couple of months.
+## What do i do
+I've worked on a cheat running on CSGO called <a href="https://github.com/s3pt3mb3r/Dainsleif" rel="noopener">**:zap:Dainsleif**</a> for a couple of months.
+
+Furthermore, these days I've been concentrated on creating <a href="https://github.com/s3pt3mb3r/GameOffsetDumper" rel="noopener">**:mag:GameOffsetDumper**</a> which allows you to re-find offsets after game's updated.
+
+Feel free to visite these repositories if you're interested in my works.
