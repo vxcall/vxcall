@@ -8,4 +8,4 @@
 
 #### LOVE: People who star my projects.
 
-#### HATE: Noobs who are impolite to game hackers.
+#### HATE: Assholes being impolite to hack devs.
