@@ -1,4 +1,4 @@
-## Hi there I'm S3pt3mb3r 👋
+## Ello luvs :shipit:
 <a href="https://github.com/s3pt3mb3r">
   <img align="center" src="https://github-readme-stats-five-iota.vercel.app/api?username=s3pt3mb3r&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" />
 </a>
@@ -6,6 +6,4 @@
   <img align="center" src="https://github-readme-stats-five-iota.vercel.app/api/top-langs/?username=s3pt3mb3r&layout=compact&theme=tokyonight" />
 </a>
 
-#### LOVE: People who star my projects.
-
-#### HATE: Assholes being impolite to hack devs.
+### Thanks for comming to my profile. Enjoy having look at my projects. Give me a star and motivate me if you find them cool:fire:.
