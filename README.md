@@ -5,5 +5,6 @@
   <img align="center" src="https://github-readme-stats-five-iota.vercel.app/api/top-langs/?username=s3pt3mb3r&layout=compact&theme=tokyonight" />
 </a>
 
-## Ello luvs :shipit:
-### Thanks for comming to my profile. Enjoy having look at my projects. Give me a star and motivate me if you find them cool:fire:.
+## Following projects are active right now! :fire:
+- ### [Dainsleif](https://github.com/s3pt3mb3r/Dainsleif) (Cheat tool for CS:GO)
+- ### [LastHope](https://github.com/s3pt3mb3r/LastHope) (Cheat tool for GTFO)
