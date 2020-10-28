@@ -6,5 +6,5 @@
 </a>
 
 ## Following projects are active right now! :fire:
-- ### [Dainsleif](https://github.com/s3pt3mb3r/Dainsleif) (Cheat tool for CS:GO)
-- ### [LastHope](https://github.com/s3pt3mb3r/LastHope) (Cheat tool for GTFO)
+- ### [Dainsleif](https://github.com/s3pt3mb3r/Dainsleif): Open source cheat for CS:GO (lisenced MIT)
+- ### [LastHope](https://github.com/s3pt3mb3r/LastHope): Open source cheat for GTFO (lisenced GPL3.0)
