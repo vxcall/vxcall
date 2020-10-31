@@ -6,5 +6,5 @@
 </a>
 
 ## Following projects are active right now! :fire:
-- ### [Dainsleif](https://github.com/s3pt3mb3r/Dainsleif): Open source cheat for CS:GO (lisenced MIT)
-- ### [LastHope](https://github.com/s3pt3mb3r/LastHope): Open source cheat for GTFO (lisenced GPL3.0)
+- ### [Dainsleif](https://github.com/s3pt3mb3r/Dainsleif): Open source cheat for CS:GO.
+- ### [GameOffsetDumper](https://github.com/s3pt3mb3r/GameOffsetDumper): Open source offset dumper compatible with x86 and x64.
