@@ -7,4 +7,4 @@
 
 ## Following projects are active right now! :fire:
 - ### [Dainsleif](https://github.com/s3pt3mb3r/Dainsleif): Open source cheat for CS:GO.
-- ### [MiraDump](https://github.com/s3pt3mb3r/GameOffsetDumper): Open source offset dumper compatible with x86 and x64.
+- ### [MiraDump](https://github.com/s3pt3mb3r/GameOffsetDumper): Offset dump application along with clean looking GUI.
