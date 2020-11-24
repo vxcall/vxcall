@@ -4,3 +4,5 @@
 <a href="https://github.com/s3pt3mb3r">
   <img align="center" src="https://github-readme-stats-five-iota.vercel.app/api/top-langs/?username=s3pt3mb3r&layout=compact&theme=tokyonight" />
 </a>
+
+# :fire: [colorizeEcho](https://github.com/s3pt3mb3r/colorizeEcho) is now active
