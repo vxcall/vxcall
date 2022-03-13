@@ -11,7 +11,6 @@
 <div align="left">
 I've been learning game modding/hacking at slow pace.
 
-The things I'll mess around with in the future: **Unity game hacking with C#, dll injector and mono injector**
+### I'm capable of nothing much and am having hard time understanding the Unreal engine game hack. If anyone who's familier to it, plz reach out to me via email.
 
-### I'm capable of nothing much and am having hard time understanding the Unreal engine game hack. If anyone who's familier to it, plz reach out to me.
 </div>
