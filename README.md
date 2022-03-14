@@ -9,8 +9,10 @@
 </div>
 
 <div align="left">
-I've been learning game modding/hacking at slow pace.
-
-### I'm capable of nothing much and am having hard time understanding the Unreal engine game hack. If anyone who's familier to it, plz reach out to me via email.
+  
+## :bulb: Plz reach out to me if you're:
+  
+- capable of the Unreal engine game hack. (plz get me some idea of how)
+- learning game hacking/modding. (just wanna have a casual daily conversation)
 
 </div>
