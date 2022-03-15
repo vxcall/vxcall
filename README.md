@@ -13,6 +13,6 @@
 ## :bulb: Plz reach out to me if you're:
   
 - capable of the Unreal engine game hack. (plz get me some idea of how)
-- learning game hacking/modding. (just wanna have a casual daily conversation)
+- learning game hacking/modding.
 
 </div>
