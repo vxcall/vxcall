@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🔊 Hi, I'm s3pt3mb3r.
+# :loud_sound: Hi, I'm s3pt3mb3r.
 
 <p align="center"> 
   
@@ -10,6 +10,12 @@
 </div>
 
 <div align="left">
+  
+## :zap: Who am I ?
+
+I am a person who's learning reverse engineering just to satisfy my curiosity.
+Though I don't post web stuff on github, I'm Working as a web engineer for a living.
+
   
 ## :bulb: Plz reach out to me if you're:
   
