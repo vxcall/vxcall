@@ -15,11 +15,11 @@
 
 I am a person who's learning reverse engineering just to satisfy my curiosity.
 
-I'm Working as a web engineer for a living, I haven't really uploaded web stuff here tho.
+I've been working as a web engineer for a living, I haven't really uploaded web stuff here tho haha.
 
 ## :bulb: Plz reach out to me if you're:
   
 - capable of the Unreal engine game hack. (plz get me some idea of how)
-- learning game hacking/modding.
+- anyone learning game hacking/modding.
 
 </div>
