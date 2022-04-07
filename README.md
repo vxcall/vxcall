@@ -14,9 +14,9 @@
 ## :zap: Who am I ?
 
 I am a person who's learning reverse engineering just to satisfy my curiosity.
-Though I don't post web stuff on github, I'm Working as a web engineer for a living.
 
-  
+I'm Working as a web engineer for a living, I haven't really uploaded web stuff here tho.
+
 ## :bulb: Plz reach out to me if you're:
   
 - capable of the Unreal engine game hack. (plz get me some idea of how)
