@@ -1,4 +1,6 @@
-Wanna get along with whoever write Nim, Rust, C++
+<div align="center">
+  Wanna get along with whoever write Nim, Rust, C++
+</div>
 <div align="center">
   
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-one-self.vercel.app/api?username=pseuxide&show_icons=true&theme=dracula&count_private=true&border_color=574666" />
