@@ -1,5 +1,7 @@
 <div align="center">
   Disclaimer: just a beginner low level programmer.
+  
+  Wanna get along with someone that has good understanding bout game hacking and binary analysis experience.
 </div>
 <div align="center">
   
