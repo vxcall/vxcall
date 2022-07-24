@@ -1,5 +1,5 @@
 <div align="center">
-  Wanna get along with whoever write Nim, Rust, C++
+  Disclaimer: just a beginner low level programmer.
 </div>
 <div align="center">
   
