@@ -1,8 +1,13 @@
-<div align="center">
-  Disclaimer: just a beginner low level programmer.
+<h1>Who am I?</h1> 
+
+<div class="whoami">
+
+Working as web engineer which being responsible of frontend, backend and IoT development 🚀
   
-  Wanna get along with anyone that has good understanding bout game hacking and binary analysis experience.
+That being said, playing with low level materials at midnight 🔥
+
 </div>
+
 <div align="center">
   
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-one-self.vercel.app/api?username=pseuxide&show_icons=true&theme=dracula&count_private=true&border_color=574666" />
