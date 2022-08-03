@@ -2,7 +2,7 @@
 
 <div class="whoami">
 
-Working as web engineer which being responsible of frontend, backend and IoT development 🚀
+Working as web engineer which being responsible for frontend, backend and IoT development 🚀
   
 That being said, playing with low level materials at midnight is what I'm into most 🔥
 
