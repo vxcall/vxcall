@@ -4,7 +4,7 @@
 
 Working as web engineer which being responsible for frontend, backend and IoT development 🚀
   
-That being said, playing with low level materials at midnight is what I'm into most 🔥
+That being said, playing with low level materials at midnight is what I'm obsessed with most 🔥
 
 </div>
 
