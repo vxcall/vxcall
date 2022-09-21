@@ -1,11 +1,14 @@
-<h1>Who am I?</h1> 
+<h2 align="center">who's pseuxide</h1> 
 
 <div class="whoami">
-
-Working as web engineer which being responsible for frontend, backend and IoT development 🚀
-  
-That being said, playing with low level materials at midnight is what I'm obsessed with most 🔥
-
+  <ul>
+    <li>
+      Working as web developer mainly coding Ruby, React, Golang and Python. Doing windows hacky stuff at weekend.
+    </li>
+     <li>
+      My projects aren't mature, maybe PoC and moreover development'd be halt at my discretion.
+    </li>
+  </ul>
 </div>
 
 <div align="center">
