@@ -3,10 +3,10 @@
 <div class="whoami">
   <ul>
     <li>
-      Working as web developer mainly coding Ruby, React, Golang and Python. Doing windows hacky stuff at weekend.
+      Working as a web developer mainly coding Ruby, React, Golang and Python. Doing windows hacky stuff at weekend.
     </li>
      <li>
-      My projects aren't mature, maybe PoC and moreover development'd be halt at my discretion.
+      My projects could be immature, maybe PoC and development'd be halt at my discretion.
     </li>
   </ul>
 </div>
