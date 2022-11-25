@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Top Langs" width="700px" src="https://user-images.githubusercontent.com/33578715/203929370-21c63360-ab43-492a-9adb-ba5eedd3b712.gif" />
+  <img alt="Top Langs" width="700px" src="https://user-images.githubusercontent.com/33578715/203929491-d5350b98-449d-45b6-80f7-9ba3fb0650a4.gif" />
 </div>
 
 <!-- <h2 align="center">who is this</h1> 
