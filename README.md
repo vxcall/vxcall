@@ -1,1 +1,1 @@
-I literary suck at coding albeit just a lil more knowledgable on some concepts u never know.
+I literary suck at coding though just a lil more knowledgable on some concepts you've never known.
