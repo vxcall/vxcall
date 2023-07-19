@@ -1,3 +1,9 @@
 <div align="center">
-  The number of stars i've got has nothing to do with my coding skills, but with how many nerds are helped and how unique i am.
+
+  started programming 2016, now working as a web engineer.
+  
+  been fucking with low level stuff every now and then since 2020.
+
+  compelled to kernel driver development.
+  
 </div>
