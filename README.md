@@ -1,9 +1,7 @@
 <div align="center">
 
-  started programming in 2016, now working as a web engineer.
+  started coding in 2016, now working as a low key backend web engineer.
   
-  been fucking with low-level stuff every now and then since 2020.
-
-  compelled to kernel driver development.
+  been tinkering with low level stuff every now and then since 2020, dabbling in kernel development lately.
   
 </div>
