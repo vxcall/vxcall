@@ -1,11 +1,7 @@
 <div align="center">
 
-  Started coding in 2016, now working as a low key backend web engineer.
-
-  Having worked on my projects solo, I've assimilated myriad concepts yet relatively unaccompanied by a coding prowess.
+  Started coding in 2016, been tinkering with low level every now and then since 2020.
   
-  Been tinkering with low level programming every now and then since 2020.
-
-  Dabbling in windows kernel driver development lately.
+  love spending time on Zodiacon's book such as [Windows Kernel Programming, Second Edition](https://leanpub.com/windowskernelprogrammingsecondedition) and [Windows 10 System Programming](https://leanpub.com/b/windows10systemprogrammingP1and2)
   
 </div>
