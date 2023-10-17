@@ -1,5 +1,5 @@
 <div align="center">
-  Disclaimer: just a beginner low level programmer.
+  Disclaimer: a hobyist low level programmer.
 </div>
 <div align="center">
   
