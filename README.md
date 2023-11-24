@@ -1,7 +1,7 @@
 <div align="center">
   <h1>whoami</h1>
   
-  I'm not like those 'red teaming' posers who are as clueless about security as they are about the feel of grass. I'm nobody just enjoying low level.
+  I'm nobody just enjoying low level.
   
   Posting arbitrary shit i'd be able to revise the methodologies i learned prior.
   
