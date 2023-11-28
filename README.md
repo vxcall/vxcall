@@ -3,10 +3,12 @@
   
   I'm nobody just enjoying low level.
   
-  Posting arbitrary shit i'd be able to revise the methodologies i learned prior.
+  Posting arbitrary shit, i'd be able to revise the methodologies i learned prior.
   
-  In that sense, most of the projects are not something novel but just something got my attention at that time.
-  
+  That being said, low level is not only things i come across, i work as a web engineer so my tech stack after all would be following:
+ 
+  **C++, Rust, Ruby on Rails, Go, Python, React, Nim**
+
 </div>
 
 <div align="center">
