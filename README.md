@@ -5,7 +5,7 @@
   
   Posting arbitrary shit, i'd be able to revise the methodologies i learned prior.
   
-  That being said, low level is not only things i come across, i work as a web engineer so my tech stack after all would be following:
+  That being said, low level is not only things i come across, i work as a web engineer, therefore my tech stack after all would be following:
  
   **C++, Rust, Ruby on Rails, Go, Python, React, Nim**
 
