@@ -1,8 +1,5 @@
 <div align="center">
-  Reversing softwares solely for fun.
-  Mostly just a gamer n web engineer.
-  
-  Usually create a private repo first and most of them are disposed and never been public.
+  been naughty
 </div>
 <div align="center">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-one-self.vercel.app/api?username=pseuxide&count_private=true&hide_border=true&include_all_commits=true&hide=contribs&theme=codeSTACKr" />
