@@ -3,7 +3,8 @@
   ```cpp
   KeEnterCriticalRegion();
 
-  Hi();
+  CR3 == PML4
+  PML4->PDPT->PDT->PT->Physical Page Frame
 
   KeLeaveCriticalRegion();
   ```
