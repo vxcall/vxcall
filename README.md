@@ -1,5 +1,3 @@
-Hilarious subroutine that I found in virtualized PE lmao
-
 ```
 .obfh:0000000000405C4A                                   ; =============== S U B R O U T I N E ==============================
 .obfh:0000000000405C4A
