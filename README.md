@@ -1,4 +1,6 @@
-A subroutine that I find in a virtualized PE and I found it funny.
+I'm a web engineer.
+
+Do reverse engineering time to time and post silly blog posts @ [pseuxide.github.io](https://pseuxide.github.io)
 
 ```
 .obfh:0000000000405C4A                                   ; =============== S U B R O U T I N E ==============================
