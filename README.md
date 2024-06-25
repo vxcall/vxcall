@@ -1,7 +1,5 @@
 I'm a web engineer.
 
-Do reverse engineering time to time and write blog posts at [vxcall.github.io](https://vxcall.github.io)
-
 ```
 .obfh:0000000000405C4A                                   ; =============== S U B R O U T I N E ==============================
 .obfh:0000000000405C4A
