@@ -1,5 +1,4 @@
 I'm a web engineer.
-I don't like programming in general
 
 ```
 .obfh:0000000000405C4A                                   ; =============== S U B R O U T I N E ==============================
