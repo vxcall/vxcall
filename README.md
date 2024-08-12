@@ -1,7 +1,8 @@
 A web engineer, who works on mainly backend, frontend as well as devops stuff sometimes. Hate UI styling.
 
-Also enjoying reverse engineering softwares at night. Regularly contributing to cool OSS' out there. 🩷 
+Also enjoying reverse engineering softwares at night. Regularly contributing to cool OSS' out there ♥
 
+Recently I'm into devirtualization of VMProtect and contributing assembly to LLVM lifter projects.
 ```nasm
 .vxcall:00405C4A                             ; =============== S U B R O U T I N E ========================
 .vxcall:00405C4A
