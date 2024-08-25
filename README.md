@@ -2,7 +2,7 @@ A web engineer, who works on mainly backend, frontend as well as devops stuff so
 
 Also enjoying reverse engineering softwares at night.
 
-The project I'm contributing thrivingly is [NaC-L/Mergen](https://github.com/NaC-L/Mergen) ! It's fucking cool project, I'm honored being one of its contributors!
+The project I'm contributing recently is [NaC-L/Mergen](https://github.com/NaC-L/Mergen) ! It's fucking cool project, I'm honored being one of its contributors!
 
 ```nasm
 .vxcall:00405C4A                             ; =============== S U B R O U T I N E ========================
