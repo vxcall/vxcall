@@ -1,5 +1,7 @@
 web engineer ¦ reverse engineer
-Watching and contributing a bit on [NaC-L/Mergen](https://github.com/NaC-L/Mergen).
+
+Love and have been contributing to cool OSS projects.
+Currently investing my time on contributing [NaC-L/Mergen](https://github.com/NaC-L/Mergen).
 I'm busy with a hackathon right now
 
 ```nasm
