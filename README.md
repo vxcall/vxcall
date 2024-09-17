@@ -1,8 +1,7 @@
 web engineer ¦ reverse engineer
 
 Love and have been contributing to cool OSS projects.
-Currently investing my time on contributing [NaC-L/Mergen](https://github.com/NaC-L/Mergen).
-I'm busy with a hackathon right now
+Currently investing my time on contributing every now and then [NaC-L/Mergen](https://github.com/NaC-L/Mergen).
 
 ```nasm
 .vxcall:00405C4A                             ; =============== S U B R O U T I N E ========================
