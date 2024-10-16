@@ -1,4 +1,4 @@
-web engineer ¦ reverse engineer
+I reverse engineer softwares and write articles at [https://vxcall.github.io/](https://vxcall.github.io/)
 
 Love and have been contributing to cool OSS projects.
 Currently investing my time on contributing [NaC-L/Mergen](https://github.com/NaC-L/Mergen) every now and then.
