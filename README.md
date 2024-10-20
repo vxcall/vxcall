@@ -1,9 +1,7 @@
-Wrote an article about researching VMProtect at [https://vxcall.github.io/posts/vmprotect-research/](https://vxcall.github.io/posts/vmprotect-research/)
-
-Love contributing cool OSS projects.
-
-Currently investing my time on contributing [NaC-L/Mergen](https://github.com/NaC-L/Mergen) every now and then.
-
+- Speak English and Japanese fluently.
+- Love computer science and reverse engineering.
+- Wrote an article about researching software virtualization [https://vxcall.github.io/posts/vmprotect-research/](https://vxcall.github.io/posts/vmprotect-research/)
+- Capable of web backend, frontend and building infrastructures including CI/CD
 ```nasm
 .vxcall:00405C4A                             ; =============== S U B R O U T I N E ========================
 .vxcall:00405C4A
