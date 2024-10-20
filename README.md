@@ -1,6 +1,6 @@
 Wrote an article about researching VMProtect at [https://vxcall.github.io/posts/vmprotect-research/](https://vxcall.github.io/posts/vmprotect-research/)
 
-Love and have been contributing to cool OSS projects.
+Love contributing cool OSS projects.
 
 Currently investing my time on contributing [NaC-L/Mergen](https://github.com/NaC-L/Mergen) every now and then.
 
