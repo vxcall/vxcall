@@ -1,5 +1,3 @@
-- Speak English and Japanese fluently.
-- Love computer science and reverse engineering.
 - Wrote an article about researching software virtualization [https://vxcall.github.io/posts/vmprotect-research/](https://vxcall.github.io/posts/vmprotect-research/)
 - Capable of web backend, frontend and building infrastructures including CI/CD
 ```nasm
