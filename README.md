@@ -6,5 +6,6 @@
 <div align="center">
   <h2>Blog</h2>
   Check out my latest blog post about researching VMProtect!
-  <a href="https://vxcall.github.io/posts/vmprotect-research/"><img width="600" alt="image" src="https://github.com/user-attachments/assets/df7e816d-c76c-4ef7-8d34-bb07a103e0f3"></a>
+
+  <a href="https://vxcall.github.io/posts/vmprotect-research/"><img width="600" alt="image" src="https://github.com/user-attachments/assets/348cb678-7ffc-42aa-a231-5f9af994feab"></a>
 </div>
