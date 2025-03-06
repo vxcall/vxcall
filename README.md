@@ -1,4 +1,5 @@
 <div align="center">
+  Working on a private repo which I'll make public later :love_letter:
   <h2>Blog</h2>
   Check out my latest blog post about researching VMProtect!
 
